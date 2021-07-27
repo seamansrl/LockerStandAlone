@@ -94,10 +94,10 @@ Para el uso general del locker a nivel usuario los pasos son mostrados en pantal
 
 Se inicia un proceso seleccionando una de las letra de la A a la D que tiene el teclado donde según la pantalla en la que se esté tendrán distintas funciones. Por ejemplo, en la pantalla inicial:
 
-A: DEJAR UN OBJETO EN EL LOCKER
-B: RETIRAR UN OBJETO DEL LOCKER
-C: CANCELAR LA FUNCIÓN EN CURSO
-D: VER CUANTOS CASILLEROS ESTAN LIBRES
+- A: DEJAR UN OBJETO EN EL LOCKER
+- B: RETIRAR UN OBJETO DEL LOCKER
+- C: CANCELAR LA FUNCIÓN EN CURSO
+- D: VER CUANTOS CASILLEROS ESTAN LIBRES
 
 # Contactanos en:
 https://www.linkedin.com/company/35599193/admin/
