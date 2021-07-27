@@ -12,7 +12,7 @@ Para ello deberemos sensorizar a cada una de las puertas con un sensor magnétic
 A continuación, mostramos una imagen del esqueleto del locker:
 ![Esqueleto](Esqueleto.jpg)
 
-En la siguiente imagen se puede observar como se conectar cada puerta:
+En la siguiente imagen se puede observar como se conecta cada puerta:
 ![Esquema](Esquema.jpg)
 
 Ahora bien, probablemente si sos un avezado en electrónica te habrás dado cuenta que la disposición de las cerraduras tiene un problema que consiste en que las bobinas que activan las cerraduras no dejan de ser cables que dejaran pasar corriente a pesar de no ser las directamente conectadas, por lo cual podrían llegar a activar, aunque con menos fuerza a los compartimientos aledaños a la misma línea activada. Para ello deberemos poner antes de cada una de las cerraduras un diodo que fuerza a la corriente a ir en una sola dirección y de esa manera evitar activaciones erróneas.
@@ -93,6 +93,15 @@ A: DEJAR UN OBJETO EN EL LOCKER
 B: RETIRAR UN OBJETO DEL LOCKER
 C: CANCELAR LA FUNCIÓN EN CURSO
 D: VER CUANTOS CASILLEROS ESTAN LIBRES
+
+# Contactanos en:
+https://www.linkedin.com/company/35599193/admin/
+
+# Seguime en:
+https://www.linkedin.com/in/fernando-p-maniglia/
+
+# Conocenos más en:
+https://www.seamansrl.com.ar
 
 # Imágenes finales de la placa:
 ![Final1](Final_1.jpg)
