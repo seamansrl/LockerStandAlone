@@ -31,7 +31,7 @@ Nota: No es lo mismo poner un único diodo en cada línea o a la salida de la Ar
 - Cables
 
 # Pasos previos:
-Antes de empezar deberemos instalar las librerías ubicadas en la capeta “Liberia” en nuestro entorno Arduino.
+Antes de empezar deberemos instalar las librerías ubicadas en la carpeta “Liberias” en nuestro entorno Arduino.
 Por lo demás solo es conectar, cargar el código y disfrutar.
 
 # Conexiones:
