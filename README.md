@@ -85,8 +85,10 @@ Seguido del “CÓDIGO DE FUNCIÓN DE 5 DIGITOS” y termina con dos veces NUMER
 Al apretar NUMERAL + 000 se escuchara un beep corto indicando que estamos en modo de administracion. Al ingresar los siguientes 5 dígitos se activará la función maestra seleccionada:
 
 *00025500## : Desactiva los sensores magnéticos y deja al sistema funcionando por tiempo
+
 *00075569## : Resetea todas las claves del Locker 
-*00023434## : Permite cambiar la clave de un casillero en caso que el usuario olvidada la ingresada.
+
+*00023434## : Permite cambiar la clave de un casillero en caso que el usuario olvidara la ingresada.
 
 Para el uso general del locker a nivel usuario los pasos son mostrados en pantalla, pero se podría resumir de la siguiente forma:
 
