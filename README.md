@@ -31,7 +31,7 @@ Nota: No es lo mismo poner un único diodo en cada línea o a la salida de la Ar
 - Cables
 
 # Pasos previos:
-Antes de empezar deberemos instalar las librerías ubicadas en la carpeta “Liberias” en nuestro entorno Arduino.
+Antes de empezar deberemos instalar las librerías ubicadas en la carpeta “Librerias” en nuestro entorno Arduino.
 Por lo demás solo es conectar, cargar el código y disfrutar.
 
 # Conexiones:
@@ -64,7 +64,9 @@ PIN 2
 - Reles:
 PIN del 22 al 43 segun diagrama antes mostrado.
 
+
 Nota: Las cerraduras deberán ser conectadas a los reles y estos a la fuente de forma directa, o sea que las cerraduras no tomarán energía de la Arduino sino de la fuente.
+
 # Cerraduras:
 Si bien es posible usar pestillos tipo solenoide de corriente directa a 12V lo mas recomendable es usar una cerradura para locker como mostrada a continuación ya que estas tienen expulsor de puerta y por tanto una vez puesta la clave la puerta seleccionada se abrirá automáticamente.
 ![ Cerradura](Cerradura.jpg)
