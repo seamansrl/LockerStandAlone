@@ -38,25 +38,25 @@ Por lo demás solo es conectar, cargar el código y disfrutar.
 Si bien lo pines de los reles a la Arduino Mega ya los mostramos en el punto “Esquema”, aun nos queda por enunciar donde conectar las demás piezas por lo cual aca una rápida referencia:
 
 -	Beeper Activo: 
-PIN 3
-+5v
-GND
+PIN 3, 
++5v, 
+GND, 
 
 -	Teclado: 
-PIN 11
-PIN 10
-PIN 9
-PIN 8 
-PIN  7
-PIN 6
-PIN 5
-PIN 4 
+PIN 11, 
+PIN 10, 
+PIN 9, 
+PIN 8, 
+PIN 7, 
+PIN 6, 
+PIN 5, 
+PIN 4, 
 
 -	LCD: 
-PIN 20
-PIN 21
-+5v
-GND
+PIN 20,
+PIN 21,
++5v,
+GND,
 
 - Sensores magneticos:
 PIN 2
