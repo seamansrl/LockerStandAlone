@@ -57,6 +57,12 @@ PIN 21
 +5v
 GND
 
+- Sensores magneticos:
+PIN 2
+
+- Reles:
+PIN del 22 al 43 segun diagrama antes mostrado.
+
 Nota: Las cerraduras deberán ser conectadas a los reles y estos a la fuente de forma directa, o sea que las cerraduras no tomarán energía de la Arduino sino de la fuente.
 # Cerraduras:
 Si bien es posible usar pestillos tipo solenoide de corriente directa a 12V lo mas recomendable es usar una cerradura para locker como mostrada a continuación ya que estas tienen expulsor de puerta y por tanto una vez puesta la clave la puerta seleccionada se abrirá automáticamente.
