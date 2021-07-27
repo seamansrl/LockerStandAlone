@@ -17,7 +17,7 @@ En la siguiente imagen se puede observar como se conecta cada puerta:
 
 Ahora bien, probablemente si sos un avezado en electrónica te habrás dado cuenta que la disposición de las cerraduras tiene un problema que consiste en que las bobinas que activan las cerraduras no dejan de ser cables que dejaran pasar corriente a pesar de no ser las directamente conectadas, por lo cual podrían llegar a activar, aunque con menos fuerza a los compartimientos aledaños a la misma línea activada. Para ello deberemos poner antes de cada una de las cerraduras un diodo que fuerce a la corriente a ir en una sola dirección y de esa manera evitar activaciones erróneas.
 
-Nota: No es lo mismo poner un único diodo en cada línea o a la salida de la Arduino. Deben estas justo a la entrada de la bobina de la cerradura.
+Nota: No es lo mismo poner un único diodo en cada línea o a la salida de la Arduino. Deben estar justo a la entrada de la bobina de cada cerradura.
 
 # Elementos requeridos:
 - 1x Arduino Mega
